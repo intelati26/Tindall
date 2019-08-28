@@ -1,0 +1,57 @@
+---
+layout: tindallgram
+date: Mar 30 1966 
+from: FM/Deputy Chief, Apollo Data Prioty Coordination
+serial: 68-PA-T-57A
+subject: Automatic rendezvous braking maneuver
+---
+
+1. The Midcorse Phase Data Priority Meeting of March 6 was devoted to 
+the earth orbital phase evalutation of guidanace systems to make the trans-lunar
+injection (TLI) Go/No Go decision. It was reported at the outset 
+that a new set of ground rules have been established with regard to this 
+subject. They are:
+
+  (a) A TLI manuever will not be attempted if there is any indication 
+  that the S-IVB IU guidance system is not working properly.
+  
+  (b) A properly operating CSM PNGCS is not mandatory for TLI. That
+  is, it is acceptable  to make a TLI maneuver with a failed CSM PNGCS if
+  the subsequent alternate mission is considered more valuable than remaining 
+  in earth orbit.
+  
+Rationale for these ground rules is given in Memorandum No. 68-PA-T-56A
+(H. W. Tindall), dated March 7, 1968. The manner in which we may detect
+S-IVB IU failure is also presented in that memo and is partially reproduced
+in this one to make the rest of it more understandable.
+
+2. There are two sources of S-IVB failure indication. The first is
+the S-IVB's own failure detection system which indicates failures via 
+telemetery. The second is by comparison with the CSM PNGCS and MSFN tracking.
+These comparisons, it must be emphasized, are extremely gross. That 
+is the S-IVB IU is designed to be at least an order of magnitude more
+precise than the CBM PNGCS and the MSFN.  Thus, these monitoring systems---
+telemetry, CSM, and MSFN--- for example, 30 to 100 sigma! Whereas, MBFC's 
+definition of a definitely and absolutely broken IU is anything beyond
+3 sigma. Therefore, the actual limits we would select for TLI Go/No Go 
+dependably, detectable failure. That is, we would use the smallest 
+failure which we can confidently attribute to the S-IVB rather than the 
+comparison system itself. Deviatons in excess of that ammount are 
+certainly true S-IVB IU failures and would result in a No Go for TLI.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+  (a)
+  (b)
+
+9.
